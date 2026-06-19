@@ -50,5 +50,26 @@
       "family": "Andrews"
     }
   ]
+},
+{
+  "id": "url:https://en.wikipedia.org/wiki/Acid2",
+  "type": "webpage",
+  "URL": "https://en.wikipedia.org/wiki/Acid2",
+  "title": "Acid2",
+  "container-title": "Wikipedia"
+},
+{
+  "id": "url:https://arcinstitute.org/news/virtual-cell-challenge-2025-wrap-up",
+  "type": "webpage",
+  "URL": "https://arcinstitute.org/news/virtual-cell-challenge-2025-wrap-up",
+  "title": "Virtual Cell Challenge 2025 Wrap-Up: Winners and Reflections",
+  "container-title": "Arc Institute",
+  "issued": {
+    "date-parts": [
+      [
+        2025
+      ]
+    ]
+  }
 }
 ]
