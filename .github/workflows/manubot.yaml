@@ -95,7 +95,10 @@ jobs:
           name: manuscript-${{ github.run_id }}-${{ env.TRIGGERING_SHA_7 }}
           path: output
       - name: Deploy Manuscript
-        if: github.ref == env.DEFAULT_BRANCH_REF && github.event_name != 'pull_request' && !github.event.repository.fork
+        # Deploy on the default branch of ANY repo, including forks, so collaborators
+        # can preview the rendered manuscript on their own fork before opening a PR.
+        # (Removed the rootstock `&& !github.event.repository.fork` guard.)
+        if: github.ref == env.DEFAULT_BRANCH_REF && github.event_name != 'pull_request'
         env:
           MANUBOT_ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           MANUBOT_SSH_PRIVATE_KEY: ${{ secrets.MANUBOT_SSH_PRIVATE_KEY }}

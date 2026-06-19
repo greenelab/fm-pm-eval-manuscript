@@ -1,5 +1,5 @@
 ---
-title: "Manuscript Title"
+title: "Prospective Evaluation of Foundation Model Performance in Precision Medicine"
 date: null  # Defaults to date generated, but can specify like '2022-10-31'.
 keywords:
   - markdown
@@ -7,24 +7,13 @@ keywords:
   - manubot
 lang: en-US
 authors:
-  - github: johndoe
-    name: John Doe
-    initials: JD
-    orcid: XXXX-XXXX-XXXX-XXXX
-    twitter: johndoe
-    mastodon: johndoe
-    mastodon-server: mastodon.social
-    email: john.doe@something.com
+  - github: lagillenwater
+    name: Lucas A. Gillenwater
+    initials: LAG
+    orcid: 0000-0002-6995-0130
+    email: lucas.gillenwater@cuanschutz.edu
     affiliations:
-      - Department of Something, University of Whatever
+      - Department of Biomedical Informatics, University of Colorado School of Medicine, Aurora, CO, USA
     funders:
-      - Grant XXXXXXXX
-  - github: janeroe
-    name: Jane Roe
-    initials: JR
-    orcid: XXXX-XXXX-XXXX-XXXX
-    email: jane.roe@whatever.edu
-    affiliations:
-      - Department of Something, University of Whatever
-      - Department of Whatever, University of Something
+      - R01 HD109765
     corresponding: true
