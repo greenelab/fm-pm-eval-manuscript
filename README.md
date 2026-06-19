@@ -10,9 +10,9 @@
 
 <!-- usage note: edit this section. -->
 
-Current evaluations of foundation and world model predictions do not rigorously assess generalization to out of distribution test sets.
-For models to make an impact on personalized medicine, they must generalize to unseen scenarios, other experimental scenarios, and to rare conditions. 
-The work presented here will catalogue model predictions prior to experimentation and report predictive performance against experimental results. 
+Current evaluations of foundation and world-model predictions do not rigorously assess generalization to out-of-distribution test sets.
+For models to make an impact on personalized medicine, they must generalize to unseen scenarios, other experimental scenarios, and to rare conditions.
+The work presented here will catalogue model predictions prior to experimentation and report predictive performance against experimental results.
 
 ## Manubot
 

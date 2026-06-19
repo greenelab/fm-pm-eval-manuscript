@@ -1,5 +1,5 @@
 ---
-title: "Evaluation of Foundation Model Generalization to Personalized Medicine"
+title: "Prospective Evaluation of Foundation Model Performance in Precision Medicine"
 date: null  # Defaults to date generated, but can specify like '2022-10-31'.
 keywords:
   - markdown
@@ -15,5 +15,5 @@ authors:
     affiliations:
       - Department of Biomedical Informatics, University of Colorado School of Medicine, Aurora, CO, USA
     funders:
-      - R01 HD109765 
+      - R01 HD109765
     corresponding: true
