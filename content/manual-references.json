@@ -18,5 +18,37 @@
       "family": "Himmelstein"
     }
   ]
+},
+{
+  "id": "url:https://pnnl-compbio.github.io/coderdata/index.html",
+  "type": "webpage",
+  "URL": "https://pnnl-compbio.github.io/coderdata/index.html",
+  "title": "CoderData: Cancer Omics and Drug Experiment Response Data",
+  "container-title": "PNNL-CompBio",
+  "issued": {
+    "date-parts": [
+      [
+        2025
+      ]
+    ]
+  },
+  "author": [
+    {
+      "given": "Sara",
+      "family": "Gosline"
+    },
+    {
+      "given": "Yannick",
+      "family": "Mahlich"
+    },
+    {
+      "given": "Jeremy",
+      "family": "Jacobson"
+    },
+    {
+      "given": "Marissa",
+      "family": "Andrews"
+    }
+  ]
 }
 ]
