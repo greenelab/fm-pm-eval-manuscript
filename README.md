@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/greenelab/fm-pm-eval-manuscript/tree/gh-pages) branch hosts the contents of this directory at <https://greenelab.github.io/fm-pm-eval-manuscript/>.
-The permalink for this webpage version is <https://greenelab.github.io/fm-pm-eval-manuscript/v/f44f9bbe35441a8acd51a5898e6e739acaf54c1c/>.
+The permalink for this webpage version is <https://greenelab.github.io/fm-pm-eval-manuscript/v/7f1fa250b36b353c91f641a70de9635a652e33f0/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://greenelab.github.io/fm-pm-eval-manuscript/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`f44f9bbe35441a8acd51a5898e6e739acaf54c1c`](https://github.com/greenelab/fm-pm-eval-manuscript/commit/f44f9bbe35441a8acd51a5898e6e739acaf54c1c).
+[`7f1fa250b36b353c91f641a70de9635a652e33f0`](https://github.com/greenelab/fm-pm-eval-manuscript/commit/7f1fa250b36b353c91f641a70de9635a652e33f0).
