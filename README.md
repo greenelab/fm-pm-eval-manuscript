@@ -10,8 +10,9 @@
 
 <!-- usage note: edit this section. -->
 
-This repository is a template manuscript (a.k.a. rootstock).
-Actual manuscript instances will clone this repository (see [`SETUP.md`](SETUP.md)) and replace this paragraph with a description of their manuscript.
+Current evaluations of foundation and world model predictions do not rigorously assess generalization to out of distribution test sets.
+For models to make an impact on personalized medicine, they must generalize to unseen scenarios, other experimental scenarios, and to rare conditions. 
+The work presented here will catalogue model predictions prior to experimentation and report predictive performance against experimental results. 
 
 ## Manubot
 
