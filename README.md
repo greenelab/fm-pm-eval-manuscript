@@ -1,6 +1,4 @@
-# Automated scholarly manuscripts on GitHub
-
-<!-- usage note: edit the H1 title above to personalize the manuscript -->
+# Prospective Evaluation of Foundation Model Performance in Precision Medicine
 
 [![HTML Manuscript](https://img.shields.io/badge/manuscript-HTML-blue.svg)](https://greenelab.github.io/fm-pm-eval-manuscript/)
 [![PDF Manuscript](https://img.shields.io/badge/manuscript-PDF-blue.svg)](https://greenelab.github.io/fm-pm-eval-manuscript/manuscript.pdf)
@@ -10,9 +8,20 @@
 
 <!-- usage note: edit this section. -->
 
-Current evaluations of foundation and world-model predictions do not rigorously assess generalization to out-of-distribution test sets.
+**Guiding question:** Do biomedical foundation and world models generalize to out-of-distribution tasks well enough to drive personalized medicine?
+
+Current evaluations of biomedical foundation and world-model predictions do not rigorously assess generalization to out-of-distribution test sets.
 For models to make an impact on personalized medicine, they must generalize to unseen scenarios, other experimental scenarios, and to rare conditions.
 The work presented here will catalogue model predictions prior to experimentation and report predictive performance against experimental results.
+Each data tranche is a place where the guiding question is tested against held-out evidence and increasingly prospective evidence to map the boundaries of generalization.
+
+## Contributing
+
+<!-- usage note: edit this section. -->
+
+This is an open, collaborative project, and we are recruiting contributors of tasks, held-out data tranches, foundation or world models, and evaluation harnesses.
+Please read [`CONTRIBUTING.md`](CONTRIBUTING.md) before opening an issue or pull request, and review our [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md).
+`CONTRIBUTING.md` describes how to contribute, how contributions are reviewed and merged, and how authorship and author ordering are determined.
 
 ## Manubot
 
